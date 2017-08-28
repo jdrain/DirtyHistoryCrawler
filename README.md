@@ -6,8 +6,8 @@ TODO:
   + Main needs to be more modular
   + There is an error wherein the crawler sometimes does not extract the information from the html. It then considers the html to be the record
 
-***Setup***
+***Setup and Execution***
 
 Simply clone the repo and do `python mainCrawler2.py`
 
-The file io assumes a Unix system. Some editting may be required to run on windows
+The file IO assumes a Unix system. Some editing will be required to run on Windows.
